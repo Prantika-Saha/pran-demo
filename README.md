@@ -1,2 +1,3 @@
-# pran-demo
-This is my first git repos
+# dream-demo
+This is my first Git Repository.
+Author-Prantika Saha
